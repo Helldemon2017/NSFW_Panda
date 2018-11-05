@@ -1,0 +1,21 @@
+{
+  "prefix": "s.",
+  "ownerid": "346662217510551552",
+  "guildid": "488263618086043659",
+  "token": "NTA4Mzg1OTA1MDk1MjEzMDc2.DsGf6Q.1QKYfA-W2rGkmAkri69QesXFKe8",
+  
+  "swearfilter": false,
+  "discordinvite": true,
+  "tweetcommand": false,
+
+  "userchannel": "488263851834605568",
+
+  "white": "#ffffff",
+  "red": "#ff0000",
+  "orange": "#ffa500",
+  "yellow": "#ffff00",
+  "green": "#00ff00",
+  "blue": "#0000ff",
+  "purple": "#551a8b",
+  "cyan": "#46CED5"
+}
